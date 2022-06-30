@@ -1,0 +1,15 @@
+D:\seminarMasvIfun\zad2\bin\Debug\net6.0\zad2.exe
+D:\seminarMasvIfun\zad2\bin\Debug\net6.0\zad2.deps.json
+D:\seminarMasvIfun\zad2\bin\Debug\net6.0\zad2.runtimeconfig.json
+D:\seminarMasvIfun\zad2\bin\Debug\net6.0\zad2.dll
+D:\seminarMasvIfun\zad2\bin\Debug\net6.0\zad2.pdb
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.csproj.AssemblyReference.cache
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.AssemblyInfoInputs.cache
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.AssemblyInfo.cs
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.csproj.CoreCompileInputs.cache
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.dll
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\refint\zad2.dll
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.pdb
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\zad2.genruntimeconfig.cache
+D:\seminarMasvIfun\zad2\obj\Debug\net6.0\ref\zad2.dll
